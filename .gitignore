@@ -1,0 +1,117 @@
+*.iml
+HELP.md
+mvnw*
+!chromedriver
+*.app
+*.apk
+*.ipa
+*.xap
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.html
+*.pack
+# Directories #
+.mvn
+/build/
+/bin/
+/target/
+/Execution/
+/Reports/
+/Tickets/
+/Credentials/
+/user-files/docker_files/m2/
+/user-files/docker_files/tools/
+RecordAudio.wav
+VIDEO_LIVESTREAM_SAMPLE_3_FINAL.ts
+src/com/hotstar/framework/JavaSoundRecorder.java
+src/com/hotstar/framework/LanguageDetector1.java
+src/com/hotstar/framework/TranscriberDemo.java
+user-files/docker_files/capture_file.pcap
+user-files/docker_files/generate_request_response.sh
+user-files/docker_files/req_resp.txt
+user-files/executables/chromedriver
+user-files/executables/mitmproxy/*.har
+user-files/executables/mitmproxy/*.json
+user-files/executables/mitmproxy/__pycache__/
+ANDROID_025fde99bfe63f01_6001_2.json
+RecordAudio_Distorted.wav
+RecordAudio_English.wav
+RecordAudio_Hindi.wav
+clips/
+src/com/hotstar/framework/ReadNetworkLogs.java
+# OS Files #
+.DS_Store
+ 
+*.class
+*.mp3 
+*.wma
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.db
+ 
+######################
+# Windows
+######################
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# Folder config file
+Desktop.ini
+ 
+######################
+# OSX
+######################
+ 
+.DS_Store
+.svn
+ 
+# Thumbnails
+._*
+ 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+ 
+ 
+######################
+# Eclipse
+######################
+ 
+*.pydevproject
+.project
+.metadata
+bin/**
+test-output/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+/src/main/resources/rebel.xml
+# External tool builders
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+*.launch
+ 
+# CDT-specific
+.cproject
+ 
+# PDT-specific
+.buildpath
+######################
+# Intellij Idea
+######################
+
+/.idea/
+cucumber-tests.iml
